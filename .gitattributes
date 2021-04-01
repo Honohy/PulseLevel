@@ -1,0 +1,8 @@
+*.umap filter=lfs diff=lfs merge=lfs -text binary
+*.pak filter=lfs diff=lfs merge=lfs -text binary
+*.exe filter=lfs diff=lfs merge=lfs -text binary
+*.uasset filter=lfs diff=lfs merge=lfs -text binary
+*.fbx filter=lfs diff=lfs merge=lfs -text binary
+*.png filter=lfs diff=lfs merge=lfs -text binary
+*.pdb filter=lfs diff=lfs merge=lfs -text binary
+*.lib filter=lfs diff=lfs merge=lfs -text binary
